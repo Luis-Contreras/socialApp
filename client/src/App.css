@@ -1,0 +1,15 @@
+.title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+
+.ui.card:last-child {
+  margin-bottom: 15px !important;
+}
